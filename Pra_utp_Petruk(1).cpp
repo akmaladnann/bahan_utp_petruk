@@ -19,10 +19,10 @@ using namespace std;
 //	private: //biasanya untuk naro variabelnya
 //		string nama;
 //		
-//	public:
+//	public:	//urutan nya biasanya dari fungsi tanpa pengembalian ke fungsi yang ada pemngembalian
 //		void setNama(string nama)
 //		{
-//			this -> nama = nama;
+//			this -> nama = nama; //nama yang pertama untuk string nama di void, nama yang kedua untuk nama di "private"
 //		}
 //		string getNama()
 //		{
