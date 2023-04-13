@@ -14,6 +14,34 @@ using namespace std;
 //	cout<<"NPM : "<<npm;
 //}
 
+//class luaspersegipanjang
+//{
+//	private:
+//		int p,l;
+//	
+//	public:
+//		void setP(int p)
+//		{
+//			this -> p = p;	
+//		}
+//		void setL(int l)
+//		{
+//			this -> l = l;
+//		}
+//		int getP()
+//		{
+//			return p;
+//		}
+//		int getL()
+//		{
+//			return l;
+//		}
+//		int getluas()
+//		{
+//			return (2*(p+l));
+//		}
+//};
+
 //class data
 //{
 //	private: //biasanya untuk naro variabelnya
@@ -52,6 +80,16 @@ using namespace std;
 
 int main()
 {
+//	luaspersegipanjang luas;
+//	int a,b;
+//	cout<<"Masukkan panjang : ";
+//	cin>>a;
+//	cout<<"Masukkan lebar : ";
+//	cin>>b;
+//	luas.setP(a);
+//	luas.setL(b);
+//	cout<<"Luas persegi panjang : "<<luas.getluas();	
+	
 //	data siswa; //panggil classnya, lalu kasih objek
 //	string nama;
 //	cout<<"Masukkan namamu : ";
